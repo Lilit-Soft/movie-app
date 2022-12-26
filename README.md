@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-In the project havve been used mayerial-ui for the styles, redux-toolkit for storing state.
+In the project have been used typescript, material-ui for the styles, redux-toolkit for storing state.
 The project is about movies. In the main banner can be found the content regarding the featured movie, 
 also we have carousel with movies and left sidebar which is toggled.
 
